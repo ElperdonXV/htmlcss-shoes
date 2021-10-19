@@ -48,6 +48,10 @@ html{
     font-size: 6em;
 }
 
+.content-center-box img{
+    width: 100%;
+}
+
 .yellow{
     color: yellow;
 }
