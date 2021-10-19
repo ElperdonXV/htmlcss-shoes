@@ -67,6 +67,10 @@ ol{
     list-style: none;
 }
 
+li:hover {
+    box-shadow: 0px 5px 18px black;
+}
+
 li{
     display: inline-block;
     width: 3em;
@@ -76,7 +80,6 @@ li{
     margin-left: 1em;
     text-align: center;
     line-height: 3em;
-    box-shadow: 0px 5px 18px black;
 }
 
 nav a{
